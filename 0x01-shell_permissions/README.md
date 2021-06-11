@@ -1,0 +1,1 @@
+This respository contain lessons on script for shell permissions.
