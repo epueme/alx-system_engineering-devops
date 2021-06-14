@@ -1,0 +1,1 @@
+All the scripts in this directory is about shell redirectory
