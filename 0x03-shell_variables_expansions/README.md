@@ -1,0 +1,1 @@
+This directory contains the lessons for shell init files, variables and expansions for ALX
